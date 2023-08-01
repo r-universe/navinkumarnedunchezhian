@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "auto.pca"]
-	path = auto.pca
-	url = https://github.com/cran/auto.pca
 [submodule "BinarybalancedCut"]
 	path = BinarybalancedCut
 	url = https://github.com/cran/BinarybalancedCut
+[submodule "auto.pca"]
+	path = auto.pca
+	url = https://github.com/cran/auto.pca
